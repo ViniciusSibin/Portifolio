@@ -18,7 +18,7 @@ Este é o código-fonte do meu portfólio pessoal, desenvolvido utilizando o fra
 ## Como Executar Localmente
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/seu-repositorio.git
+   git clone https://github.com/ViniciusSibin/Portifolio.git
 
 2. Entre no diretório e crie um ambiente virtual:
 cd seu-repositorio
