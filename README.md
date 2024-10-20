@@ -27,7 +27,7 @@ python -m venv venv
 3. Ative o ambiente virtual:
 source venv/bin/activate  # No Windows: venv\Scripts\activate
 
-4.Instale as dependências:
+4. Instale as dependências:
 pip install -r requirements.txt
 
 5. Execute a aplicação:
